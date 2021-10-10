@@ -6,7 +6,7 @@ require('dotenv').config()
 
 
 app.use('/',(req,res) => {
-  res.send("Hello World sssss mart")
+  res.send("Hello World sssss mart test")
 })
 
 
