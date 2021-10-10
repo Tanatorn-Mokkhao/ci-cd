@@ -32,5 +32,5 @@ jobs:
     - uses: akhileshns/heroku-deploy@v3.12.12
       with:
         heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-        heroku_app_name: "ci-cd-pratice"
+        heroku_app_name: "pure-woodland-68416"
         heroku_email: "tanatorn1666@gmail.com"
