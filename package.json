@@ -16,10 +16,6 @@
     "express": "^4.17.1",
     "nodemon": "^2.0.13"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://https://gitlab.com/tanatorn.mokkhao/ci-cd-test.git"
-  },
   "devDependencies": {
     "mocha": "^9.1.2",
     "supertest": "^6.1.6"
